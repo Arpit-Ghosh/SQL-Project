@@ -1,2 +1,3 @@
 # SQL-Project
-SQL Project for a Music Company
+SQL Project for a Zomato
+Data Analysis Project
